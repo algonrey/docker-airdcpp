@@ -1,4 +1,4 @@
-##### Last Version `2.5.0`
+##### Last Version `2.5.1`
 
 ---
 AirDC++ Web Client Docker image
