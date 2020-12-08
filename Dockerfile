@@ -16,7 +16,7 @@ RUN installDeps=' \
     && apt-get update \
     && apt-get install -y --no-install-recommends $installDeps $runtimeDeps \
 # Install node.js to enable airdcpp extensions
-    && curl -sL https://deb.nodesource.com/setup_8.x | bash - \
+    && curl -sL https://deb.nodesource.com/setup_12.x | bash - \
     && apt-get install -y --no-install-recommends nodejs \
 # Setup application
     && mkdir /Downloads /Share \
