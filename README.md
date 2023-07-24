@@ -1,3 +1,8 @@
+
+
+# Deprecated use gangefors/airdcpp-webclient instead
+
+
 ##### Using the lastest Version 
 
 ---
